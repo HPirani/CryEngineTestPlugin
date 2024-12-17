@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="H:\Crytek\CryEngine\Engines\crytek\cryengine-57-lts\5.7.1\scriptTest\solutions\win64\CMakeFiles\aef513d5737a9df3c2081d89d52eb6c0\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{9F917FDA-2A71-300E-8B25-5616E989414F}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

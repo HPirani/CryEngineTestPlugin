@@ -1,0 +1,18 @@
+# CMake generation dependency list for this directory.
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/CMakeLists.txt
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/Build.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/BuildLaunchers.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/CRYENGINE-MSVC.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/CommonMacros.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/CommonOptions.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/Configure.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/ConfigureChecks.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/CopyFilesToBin.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/DownloadSDKs.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/InitialSetup.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/Recode.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/Win32/share/cmake-3.22/Modules/CheckFunctionExists.c
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/Win32/share/cmake-3.22/Modules/CheckFunctionExists.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/modules/Boost.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/modules/WinPixEventRuntime.cmake
+H:/Crytek/CryEngine/Engines/crytek/cryengine-57-lts/5.7.1/Tools/CMake/toolchain/windows/WindowsPC-MSVC.cmake

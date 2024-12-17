@@ -1,0 +1,6 @@
+<CrySchematyc CryXmlVersion="2" version="105" guid="47ac51ae-d0aa-45ed-9878-c52e2cac2070" scope="">
+ <root elementType="Module" guid="0f58f09a-412b-462e-b830-ea35d9d94f51" name="mylib" Schematyc::EMPEnv="clientserver">
+  <extensions />
+  <children />
+ </root>
+</CrySchematyc>
